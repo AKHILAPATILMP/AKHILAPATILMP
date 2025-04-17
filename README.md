@@ -30,7 +30,6 @@
 ---
 
 ## 💼 Tech Stack & Tools
-
 <table align="left">
   <tr>
     <td align="center">
@@ -77,11 +76,6 @@
 
 
 ---
-
-
-
-
-
 
 ## 📚 Currently Learning  
 
