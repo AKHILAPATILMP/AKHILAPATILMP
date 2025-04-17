@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=Hi+I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF1498&center=true&vCenter=true&width=1000&lines=Hai 👋, +I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Job Opportunities" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AKHILAPATILMP&style=flat-square&color=brightgreen)
 
@@ -9,7 +9,7 @@
 
 🎯 A zealous **Java Developer** from India  
 💻 Passionate about **Java Full Stack Web Development**  
-🧠 Currently working on **Spring Boot Projects**  
+🧠 Currently working on **Web Development**  
 📍 Intern @ **X-Workz**  
 📫 Reach me at: **akhilapatilmp@gmail.com**
 
@@ -47,10 +47,10 @@
 
 ## 📚 Currently Learning  
 
-- ✅ **Spring Boot & REST APIs**  
-- ✅ **Frontend Design with Bootstrap**  
+- ✅ **Fullstack Web Development**  
+- ✅ **Frontend Design**  
 - ✅ **Git & GitHub Best Practices**  
-- ✅ **Database Management**
+- ✅ **Database Management Systems**
 
 ---
 
@@ -64,10 +64,5 @@
 
 ---
 
-## 📌 Featured Projects *(To Add)*
 
-> *You can link projects hosted on GitHub or live demos here in the future!*
-
-```markdown
-- 📎 [Student Management System - Spring Boot](#)
-- 📎 [E-Commerce Website - Java + JSP](#)
+Thanks for Visiting my Profile!
