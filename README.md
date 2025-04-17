@@ -31,17 +31,17 @@
 
 ## 💼 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50"/>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="50"/>
-  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="50"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>
 </p>
 
 ---
@@ -62,6 +62,21 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AKHILAPATILMP&theme=radical)
+
+---
+
+## 📈 Top Languages by Repo & Commit
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=donut&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=donut-vertical&theme=radical" width="45%"/>
+</p>
+
+---
+
+## 📉 GitHub Activity Graph
+
+[![Akhila's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AKHILAPATILMP&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
