@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @AKHILAPATILMP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I am Akhila Patil M P
 
-<!---
-AKHILAPATILMP/AKHILAPATILMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 A zealous **Java Developer** from 🇮🇳 India  
+💻 Passionate about **Full Stack Web Development** & **UI/UX Design**
+
+---
+
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-Akhila%20Patil%20M%20P-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhila-patil-m-p-546822255/)](https://www.linkedin.com/in/akhila-patil-m-p-546822255/)
+
+---
+
+## 🛠️ Languages & Tools  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Technologies I’m Learning  
+- Spring Boot 🌱  
+- Git & GitHub  
+- Responsive Web Design  
+- Advanced Java  
+
+---
+
+## 📊 GitHub Stats
+
+![Akhila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhila-patil-m-p&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhila-patil-m-p&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=akhila-patil-m-p&theme=radical)
+
+---
+
+_Thanks for visiting my profile! 💙_
