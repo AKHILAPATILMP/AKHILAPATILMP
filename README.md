@@ -44,7 +44,7 @@
 
 ## 🚀 Technologies I’m Learning  
 
-- 🌱 **Frontend Technologies**  
+- 🌱 **Frontend Technologies** **(HTML,CSS,JS)** 
 - 💾 **Git & GitHub**  
 - 🧩 **Responsive Web Design**  
 - 🔥 **Advanced Java**
