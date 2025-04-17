@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hai 👋, +I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Job Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hai+%F0%9F%91%8B,+I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Job+Opportunities" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AKHILAPATILMP&style=flat-square&color=brightgreen)
 
@@ -7,11 +7,11 @@
 
 ## 👩‍💻 About Me
 
-🎯 A zealous **Java Developer** from India  
-💻 Passionate about **Java Full Stack Web Development**  
-🧠 Currently working on **Web Development**  
-📍 Intern @ **X-Workz**  
-📫 Reach me at: **akhilapatilmp@gmail.com**
+🎯 A zealous *Java Developer* from India  
+💻 Passionate about *Java Full Stack Web Development*  
+🧠 Currently working on *Web Development*  
+📍 Intern @ *X-Workz*  
+📫 Reach me at: *akhilapatilmp@gmail.com*
 
 ---
 
@@ -47,10 +47,10 @@
 
 ## 📚 Currently Learning  
 
-- ✅ **Fullstack Web Development**  
-- ✅ **Frontend Design**  
-- ✅ **Git & GitHub Best Practices**  
-- ✅ **Database Management Systems**
+- ✅ *Fullstack Web Development*  
+- ✅ *Frontend Design*  
+- ✅ *Git & GitHub Best Practices*  
+- ✅ *Database Management Systems*
 
 ---
 
@@ -63,6 +63,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AKHILAPATILMP&theme=radical)
 
 ---
-
 
 Thanks for Visiting my Profile!
