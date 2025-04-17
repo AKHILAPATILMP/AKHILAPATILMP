@@ -1,7 +1,7 @@
 # 👋 Hi, I am Akhila Patil M P
 
-🎯 A zealous **Java Developer** from 🇮🇳 India  
-💻 Passionate about **Full Stack Web Development** & **UI/UX Design**
+🎯 A zealous **Java Developer** from India  
+💻 Passionate about **Java Full Stack Web Development** 
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🚀 Technologies I’m Learning  
 
-- 🌱 **Spring Boot**  
+- 🌱 **Frontend Technologies**  
 - 💾 **Git & GitHub**  
 - 🧩 **Responsive Web Design**  
 - 🔥 **Advanced Java**
