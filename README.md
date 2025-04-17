@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF1498&center=true&vCenter=true&width=1000&lines=Hai 👋, +I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Job Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=#0000FF&center=true&vCenter=true&width=1000&lines=Hai 👋, +I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Job Opportunities" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AKHILAPATILMP&style=flat-square&color=brightgreen)
 
