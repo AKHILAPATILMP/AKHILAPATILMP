@@ -30,50 +30,31 @@
 ---
 
 ## 💼 Tech Stack & Tools
-<table align="left">
-  <tr>
-    <td align="center">
-      <b>C</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>Java</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>HTML</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>CSS</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>JavaScript</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>MySQL</b><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>VS Code</b><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>IntelliJ</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>GitHub</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/>
-    </td>
-  </tr>
-</table>
 
+- *Languages*: 
+  - C ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  - HTML ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+  - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
+- *Databases*: 
+  - MySQL ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
 
+- *Tools*: 
+  - VS Code ![VS Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
+  - IntelliJ ![IntelliJ](https://img.icons8.com/color/48/000000/intellij-idea.png)
+  - GitHub ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
 
+- *Web*: 
+  - HTML ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+  - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+  - Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
+- *Other Tools*: 
+  - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+  - GitHub ![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)
 
 ---
 
