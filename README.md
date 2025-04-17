@@ -1,4 +1,4 @@
-[<!-- Profile Banner -->
+<!-- Profile Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1000&lines=Hai+%F0%9F%91%8B,+I'm+Akhila+Patil+M+P;Java+Full+Stack+Web+Developer;Open+to+Internships+and+Job+Opportunities" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AKHILAPATILMP&style=flat-square&color=brightgreen)
@@ -92,4 +92,4 @@
 ---
 
 Thanks for Visiting my Profile!
-](https://komarev.com/ghpvc/?username=AKHILAPATILMP&style=flat-square&color=brightgreen)
+
