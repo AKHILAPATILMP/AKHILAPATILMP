@@ -1,30 +1,32 @@
 # 👋 Hi, I am Akhila Patil M P
 
-🎯 A zealous **Java Developer** from 🇮🇳 India  
-💻 Passionate about **Full Stack Web Development** & **UI/UX Design**
+🎯 A zealous **Java Developer** from India  
+💻 Passionate about **Java Full Stack Web Development** 
 
 ---
 
 ## 🔗 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhila%20Patil%20M%20P-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-patil-m-p-546822255/)
+<a href="https://www.linkedin.com/in/akhila-patil-m-p-546822255/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" />
+</a>
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30"/>
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="30"/>
 
 ---
 
 ## 🚀 Technologies I’m Learning  
 
-- 🌱 **Spring Boot**  
+- 🌱 **Frontend Technologies**  
 - 💾 **Git & GitHub**  
 - 🧩 **Responsive Web Design**  
 - 🔥 **Advanced Java**
