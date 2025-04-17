@@ -2,6 +2,9 @@
 
 
 
+---
+
+
 🎯 A zealous **Java Developer** from India  
 💻 Passionate about **Java Full Stack Web Development** 
 
@@ -16,6 +19,8 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="50"/>
 </a>
 
+
+
 ---
 
 
@@ -23,13 +28,15 @@
 ## 🛠️ Languages & Tools  
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/><br>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"/><br>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50"/><br>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/><br>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50"/><br>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="50"/><br>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="50"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="50"/>
 </p>
+
+
 
 ---
 
@@ -41,6 +48,8 @@
 - 💾 **Git & GitHub**  
 - 🧩 **Responsive Web Design**  
 - 🔥 **Advanced Java**
+
+
 
 ---
 
@@ -55,8 +64,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AKHILAPATILMP&theme=radical)
 
----
 
+
+---
 
 
 
