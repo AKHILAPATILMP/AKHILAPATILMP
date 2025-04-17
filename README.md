@@ -31,43 +31,43 @@
 
 ## 💼 Tech Stack & Tools
 
-<p align="left">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+<p align="center" style="display: flex; flex-wrap: nowrap; gap: 20px;">
+  <span style="display: inline-block; text-align: center;">
     <b>C</b><br/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>Java</b><br/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>HTML</b><br/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>CSS</b><br/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>JavaScript</b><br/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>MySQL</b><br/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>VS Code</b><br/>
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>IntelliJ</b><br/>
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40"/>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </span>
+  <span style="display: inline-block; text-align: center;">
     <b>GitHub</b><br/>
     <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/>
-  </div>
+  </span>
 </p>
 
 ---
