@@ -31,7 +31,7 @@
 
 ## 💼 Tech Stack & Tools
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <b>C</b><br/>
