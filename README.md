@@ -31,46 +31,44 @@
 
 ## 💼 Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center">
-      <b>C</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>Java</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>HTML</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>CSS</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>JavaScript</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>MySQL</b><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>VS Code</b><br/>
-      <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>IntelliJ</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40"/>
-    </td>
-    <td align="center">
-      <b>GitHub</b><br/>
-      <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>C</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>Java</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>HTML</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>CSS</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>JavaScript</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>MySQL</b><br/>
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>VS Code</b><br/>
+    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>IntelliJ</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40"/>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <b>GitHub</b><br/>
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40"/>
+  </div>
+</p>
 
 ---
 
@@ -83,7 +81,7 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 ![Akhila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKHILAPATILMP&show_icons=true&theme=radical)
 
