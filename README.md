@@ -48,10 +48,10 @@
 
 ## 📚 Currently Learning  
 
-- ✅ *Fullstack Web Development*  
-- ✅ *Frontend Design*  
-- ✅ *Git & GitHub Best Practices*  
-- ✅ *Database Management Systems*
+- *Fullstack Web Development*  
+- *Frontend Design*  
+- *Git & GitHub Best Practices*  
+- *Database Management Systems*
 
 ---
 
@@ -73,4 +73,4 @@
 
 ---
 
-Thanks for Visiting my Profile!
+**Thanks for Visiting my Profile!**
