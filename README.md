@@ -51,10 +51,30 @@
 - *Fullstack Web Development*  
 - *Frontend Design*  
 - *Git & GitHub Best Practices*  
-- *Database Management Systems*
+- *Mysql*
 
 ---
+## 📚 What I Have Learned in Java
 
+- Covered all *OOPs concepts*:
+  - Inheritance, Polymorphism and its types, Abstraction, Encapsulation,Interface
+  - Method Overriding, Method Overloading, Constructor Chaining,Different methods
+  - Type Casting and Object class methods: equals(), hashCode(), toString(), etc.
+ 
+## 💼 Backend Skills
+
+- Currently learning:
+  - *Servlets*
+  - *JDBC*
+  - *MySQL*
+ 
+## 📁 My GitHub Repositories
+
+- I have uploaded what I’ve learned and implemented.
+- Topics include OOPs, Java logic building, and backend basics.
+- More implementations are in progress — check out the repos section!
+
+  
 ## 📊 GitHub Stats
 
 ![Akhila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKHILAPATILMP&show_icons=true&theme=radical)
