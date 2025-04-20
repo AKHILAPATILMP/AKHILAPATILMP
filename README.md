@@ -71,7 +71,7 @@
 ## 📁 My GitHub Repositories
 
 - I have uploaded what I’ve learned and implemented.
-- Topics include OOPs, Java logic building, and backend basics.
+- Topics include OOPs, Java logic building,backend basics,HTML,CSS,JS.
 - More implementations are in progress — check out the repos section!
 
   
