@@ -7,10 +7,10 @@
 
 ## 👩‍💻 About Me
 
-🎯 A zealous *Java Developer*
+🎯 A zealous *Java Developer* from India 
 💻 Passionate about *Java Full Stack Web Development*  
 🧠 Currently working on *Web Development*  
-📍 Intern at *X-Workz*  
+📍 Intern @ *X-Workz*  
 📫 Reach me at: *akhilapatilmp@gmail.com*
 
 ---
