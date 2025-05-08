@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-🎯 A zealous *Java Developer* 
+🎯 A zealous *Java Developer* from India
 
 💻 Passionate about *Java Full Stack Web Development* 
 
